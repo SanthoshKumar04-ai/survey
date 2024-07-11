@@ -1,0 +1,34 @@
+#se{
+    width:475px;
+}
+span{
+    position: relative;
+    left: 3px;
+}
+b{
+    position: relative;
+    right: 7px;
+    font-size: 30px;
+}
+input{
+    border: 2px solid brown;
+    background-color: lightcoral;
+    box-shadow: 5px 10px brown;
+}
+button{
+    width: 476px;
+    border: 2px solid brown;
+    background-color: lightcoral;
+    box-shadow: 5px 10px brown;
+} 
+.section{
+    position: relative;
+    top: 40px;
+}
+.container{
+    border: 2px solid brown;
+    height: 600px;
+    background-color: lavender;
+    box-shadow: 5px 10px brown;
+    
+}
